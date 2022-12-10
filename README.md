@@ -1,7 +1,7 @@
-# APSL
+# ASL
 
-Version control for development of the AQUA Public Software License.
-Full license text may be found in the `LICENSE` file, and an example of how the APSL may be used in "Source Form" may be found in the `example.py` file.
+Version control for development of the AQUA Software License.
+Full license text may be found in the `LICENSE` file, and an example of how the ASL may be used in Source Form may be found in the `example.py` file.
 
 ## Resources
 
