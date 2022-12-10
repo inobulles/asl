@@ -1,6 +1,7 @@
 # ASL
 
-Version control for development of the AQUA Software License.
+Version control for development of the AQUA Software License (ASL).
+The ASL is a public license for Software in the AQUA ecosystem.
 Full license text may be found in the `LICENSE` file, and an example of how the ASL may be used in Source Form may be found in the `example.py` file.
 
 ## Resources
