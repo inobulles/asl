@@ -4,13 +4,9 @@ Copyright (c) 2022 Inobulles
 1. DEFINITIONS
 
 	"Source Form": The form of the work preferred for making modifications.
-
 	"Binary Form": Any form of the work other than Source Form.
-
 	"Software": Source Form, Binary Form, and associated documentation files.
-
 	"Redistribution": A copy or substantial portion of the Software.
-
 	"Sell": The practicing of any or all of the rights granted to you under this license to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/support services related to the Software), a product or a service who's value derives, entirely or substantially, from the functionality of the Software.
 
 2. GRANT OF RIGHTS
@@ -24,7 +20,7 @@ Redistributions of the Software in Source Form retain this entire license text.
 	2.2. BINARY REDISTRIBUTION
 
 Redistributions of the Software in Binary Form reproduce this entire license text in the documentation and/or other materials provided with the distribution and in a conspicuous manner.
- 
+
 	2.3. COMMONS CLAUSE
 
 You do not Sell the Software (including Redistributions).
